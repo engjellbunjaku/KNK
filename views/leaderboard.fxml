@@ -134,7 +134,7 @@
                 <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="2" />
                 <ImageView fitHeight="100.0" fitWidth="130.0" pickOnBounds="true" preserveRatio="true" scaleX="2.0" GridPane.columnIndex="3">
                     <image>
-                        <Image url="@../resources/images/tumblr_f1b34d77c8cfbc2794f05aaab701836a_7d563704_500.gif" />
+                        <Image url="@../styles/images/tumblr_f1b34d77c8cfbc2794f05aaab701836a_7d563704_500.gif" />
                     </image>
                 </ImageView>
             </children>
