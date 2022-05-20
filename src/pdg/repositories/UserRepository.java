@@ -1,4 +1,4 @@
-package repositories;
+package pdg.repositories;
 import pdg.models.User;
 import pdg.utils.DbHelper;
 
